@@ -1107,6 +1107,14 @@ header .seperator-skew svg .fill-white {
 
 }
 
+@media only screen and (max-width: 600px) {
+  .experience-container {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+
 .experience-box {
   box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
   padding: 20px;
