@@ -190,3 +190,7 @@ backToTopBtn.on("click", function (e) {
   e.preventDefault();
   $("html, body").animate({ scrollTop: 0 }, "300");
 });
+
+
+const experiences = document.getElementById("#experiences"); 
+experiences.scrollIntoView({behavior: "smooth"});
