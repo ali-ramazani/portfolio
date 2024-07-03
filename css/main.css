@@ -521,7 +521,7 @@ header .socials ul li:hover {
 header .scroll-btn-container {
   position: absolute;
   width: 100%;
-  background: red;
+  background: #0b63f3;
   bottom: 150px;
 }
 header .scroll-btn-container div {
@@ -1439,7 +1439,7 @@ table tr {
   margin-left: -9px;
   background: #fff;
   border-radius: 10px;
-  border: 4px solid rgb(255,80,80);
+  border: 4px solid rgb(11, 99, 243);
   z-index: 10;
 }
 
